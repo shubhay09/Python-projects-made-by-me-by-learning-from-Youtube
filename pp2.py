@@ -1,4 +1,4 @@
-#pp2 - guessing number game
+#pp2 - guessing number - we guess the number 
 #random 
 
 import random 
